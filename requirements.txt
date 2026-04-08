@@ -1,0 +1,5 @@
+authx==1.5.2
+fastapi==0.115.11
+pydantic==2.10.6
+sqlalchemy==2.0.39
+uvicorn==0.34.0
